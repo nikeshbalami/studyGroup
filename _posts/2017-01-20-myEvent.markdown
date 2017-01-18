@@ -1,0 +1,10 @@
+---
+title: Study Group First Discussion Meeting
+text: In order to make your first event, follow the instructions here.
+location: Kathmandu, Nepal
+link: https://github.com/nikeshbalami/studyGroup/issues/2
+date: 2017-01-20
+startTime: '4:00 PM'
+endTime: '5:00 PM'
+
+---
