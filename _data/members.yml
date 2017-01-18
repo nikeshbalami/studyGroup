@@ -1,6 +1,17 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Nikesh Balami
+  affiliation: Open Knowledge Nepal
+  github: nikeshbalami
   interests:
+    - Open Data
+    - Open Knowledge
+    - Programming
+    - Open Science
+    - Open Access
+- name: Kshitiz Khanal
+  affiliation: Open Knowledge Nepal
+  github: kshitizkhanal7
+  interests:
+    - Open Data
+    - Research
     - Programming
     - Open Science
