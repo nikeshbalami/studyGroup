@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: Our Study Group
+title: Mozilla Science Study Group Nepal
 description: "A study group."
 language: en
 
@@ -20,7 +20,7 @@ language: en
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome To Our Study Group!"
-headlineMain: "Let's Work Together"
+headlineMain: "Liberating Knowledge for Opportunity"
 
 # Setup Google Calendar
 # Usage:
@@ -38,7 +38,7 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
+  primary: 5cb22e
   secondary: fec503
   secondary-dark: 333
 
